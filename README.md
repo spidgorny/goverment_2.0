@@ -5,8 +5,8 @@
 Вот точка зрения программиста.
 
 Для начала вот примеры которые меня вдохновляли:
-- http://new.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government (есть русские субтитры)
-- http://ttolk.ru/?p=14243
+- [http://new.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government](How the Internet will (one day) transform government) (есть русские субтитры)
+- [http://ttolk.ru/?p=14243](Исландия: каждая кухарка может написать Конституцию)
  
 Вот начало, в почти произвольном порядке:
 
