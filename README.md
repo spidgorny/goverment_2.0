@@ -34,4 +34,4 @@
 - Ирландия: http://kroufr.ru/forum/index.php?topic=22911.0
 - Сингапур: http://hvylya.org/analytics/politics/kak-pobedili-korruptsiyu-v-singapure.html
 - Грузия: http://78ds.wordpress.com/2010/08/05/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D0%B8%D1%82%D1%8C-%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8E/
-- 
+- Швейцария: http://nnm.me/blogs/sceptic78/referendum-kak-on-est-i-kak-nuzhen/
